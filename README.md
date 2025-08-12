@@ -1,27 +1,17 @@
 #  Hi there! 👋
-I'm Marc González, a Software Engineer based in Barcelona (Spain). 
+I'm Marc González, a Data Analyst with an MSc in Data Science, based in Barcelona, Spain.
 
-Welcome to my profile!
+Welcome to my profile! 🚀
 
 ## About me
 
-I'm currently pursuing a master's degree in data science and have a background in computer engineering. I'm passionate about learning about Sentiment Analysis, Deep Learning and Time Series. 
+I'm currently working as a Data Analyst while also exploring Data Engineering. I enjoy tackling new challenges, and my latest goal is to share my journey openly.
 
-Outside of work and school, I enjoy riding 🏍️, cooking 🍳, dancing 🕺 and even climbing 🧗‍♂️.
+On this GitHub, you'll find projects where I dive into new topics to keep expanding my skills and stay curious about data.
 
-## Skills
-
-In this GitHub, you'll find resources I'm creating/using to study new topics and challenge myself with new projects.
-
-Most of the projects will be done in python 🐍.
-
-## Projects
-
-Currently I'm working on:
-- Master's degree in Data Science by UOC
-- Introduction to Natural Language Processing in Python.
-- My Streamlit portfolio (Private until finished).
+💡 Always experimenting.
+🤝 Always open to collaboration.
 
 ## Contact
 
-You can contact me using Linkedin!
+📌 Connect with me on Linkedin (say hello!)
